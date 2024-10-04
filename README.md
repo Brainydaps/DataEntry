@@ -1,6 +1,4 @@
-Here's the README.md in full markdown format:
 
-```markdown
 # DataEntry Software
 
 This is a custom-built data entry software designed to streamline the data collection process from sources that cannot easily be scraped. It prompts the user for input across various fields, summarizes the collected data for review, and finally saves the data in CSV format. This software is useful for speeding up manual data entry tasks, reducing errors, and ensuring data integrity.
@@ -55,4 +53,4 @@ Contributions are welcome! Please fork the repository, create a new branch, and 
 
 ## License
 
-This project is licensed under the CC By NC 4.0 License. See the `LICENSE` file for more details.
+This project is licensed under the CC BY-NC 4.0 License. See the `LICENSE` file for more details.
